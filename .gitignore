@@ -13,8 +13,6 @@ code/.ipynb_checkpoints/LSM-checkpoint.ipynb
 code/.ipynb_checkpoints/LSM-Copy1-checkpoint.ipynb
 code/.ipynb_checkpoints/LSM_K16-checkpoint.ipynb
 code/.ipynb_checkpoints/qg_2layer_topo-checkpoint.ipynb
-code/qg_2layer_topo/.ipynb_checkpoints/pyqg-checkpoint.ipynb
-code/qg_2layer_topo/.ipynb_checkpoints/qg_2layer_topo-checkpoint.ipynb
 /code/.ipynb_checkpoints
 /code/.ipynb_checkpoints
 /code/.ipynb_checkpoints
@@ -34,8 +32,6 @@ code/.DS_Store
 code/Lagrangian_DA/qg.log
 .DS_Store
 code/.DS_Store
-code/qg_2layer_topo/new topo/topo3/qg.log
-code/qg_2layer_topo/qg.log
 code/.DS_Store
 code/.DS_Store
 .DS_Store
@@ -67,5 +63,10 @@ code/lsmdaL64b22_corr.py
 
 /code/legacy
 code/Lagrangian_DA.ipynb
-/code/qg_2layer_topo/legacy
 /data/legacy
+code/tasks
+code/qg_2layer_topo/.ipynb_checkpoints/pyqg-checkpoint.ipynb
+code/qg_2layer_topo/.ipynb_checkpoints/qg_2layer_topo-checkpoint.ipynb
+/code/qg_2layer_topo/legacy
+code/qg_2layer_topo/new topo/topo3/qg.log
+*.log
